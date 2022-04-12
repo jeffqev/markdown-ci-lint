@@ -383,7 +383,8 @@ One reason to use trees might be because you want to store information that natu
 `Python`    | [Example](https://www.educative.io/edpresso/binary-trees-in-python) | [treelib](https://treelib.readthedocs.io/en/latest/) |
 `Ruby`      | [Example](https://medium.com/analytics-vidhya/implement-a-binary-search-tree-in-ruby-c3fa9192410b) | [RubyTree](https://github.com/evolve75/RubyTree) |
 `php`       | [Example](https://medium.com/the-andela-way/binary-tree-implementation-in-php-e12df09d046f) | [Tree](https://github.com/BlueM/Tree) |
-`Js`        | [Example](https://adrianmejia.com/data-structures-for-beginners-trees-binary-search-tree-tutorial/) | [functional-red-black-tree](https://github.com/mikolalysenko/functional-red-black-tree)
+`Js`        | [Example](https://adrianmejia.com/data-structures-for-beginners-trees-binary-search-tree-tutorial/) | [functional-red-black-tree](https://github.com/mikolalysenko/functional-red-black-tree) |
+
 Complexity of different operations in tree ([more about complexity of trees and big O notation](https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/)):
 
 #### Graphs
